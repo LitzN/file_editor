@@ -2,7 +2,7 @@ import os
 import re
 import PyPDF2
 
-# Folder containing PDFs
+# Folder containing pdf toi be split PDFs
 pdf_folder = "./"
 
 # Function to extract text from a PDF
